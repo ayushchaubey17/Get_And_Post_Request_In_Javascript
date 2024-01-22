@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ 
+    <style>
+        input,button{
+            margin: 5px;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1>getting form request</h1>
+    <div>
+        <form method="get" action="/register">
+            <input type="text" name="nme" placeholder="name" >
+            <br>
+            <input type="password" name="pwd" placeholder="password" >
+            <br>
+            <button>submit to get</button>
+        </form>
+
+
+    </div>
+        
+
+
+        <h1>posting form request</h1>
+        <form method="post" action="/register">
+            <input type="text" name="nme" placeholder="name"><br>
+            <input type="password" name="pwd" placeholder="password" ><br>
+            <button>submit to post</button>
+        </form>
+
+
+
+</body>
+</html>
