@@ -38,7 +38,10 @@
 
 
 
-<h3>posting the get request</h3>
+<h3>posting the request</h3>
+
+
+
 
 ![e4](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/41e95401-b9ab-4807-8911-9df459eb9b97)
 
@@ -63,7 +66,7 @@
 
 
 
-<li>file is written using ejs language. </li>
+<h1>file is written using ejs language. </h1>
 
 
 ![e7](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/3fb9bc90-b72f-45b0-a33c-1283f6b130ac)
