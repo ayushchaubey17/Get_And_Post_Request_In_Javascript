@@ -5,24 +5,23 @@
 
 
 <h3>For getting request</h3>
-![image](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/d3b35b82-1670-4639-85db-853b1c78e13b)
 
+![e1](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/a83aca03-0024-494f-80df-0bc48938dadc)
 
-<h3>Getting the get request</h3>
-![image](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/707094ed-19c1-407c-8c46-e8c0f6d0833d)
-![image](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/35e5934c-67ff-4a6f-a36e-647e0dc027e4)
-
-
-<h3>For getting request</h3>
-![image](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/a96c9f99-3a70-4c25-ab78-5090c05dcfe0)
+![e2](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/261886ab-ad83-4179-8fb9-95f7a68f1002)
+![e3](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/db57f947-9df9-4ca6-819c-335c9d61450c)
 
 
 <h3>posting the get request</h3>
-![image](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/17395da7-4ffd-49c6-9780-de054fbab6cd)
-![image](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/e4311e28-0911-4cb5-b30c-10090cfe3da5)
+
+![e4](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/41e95401-b9ab-4807-8911-9df459eb9b97)
+![e5](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/a3944634-970a-43a6-acb6-66eb88e134d9)
+![e6](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/de505ee3-2898-449d-a2d1-b62f538b7091)
+
 
 
 <li>file is written using ejs language. </li>
-![image](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/996f5a47-1f04-4f82-9af5-7ac2027322ef)
+![e7](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/1040bc6f-c57b-4353-be68-5e917b508e1d)
 
+![e8](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/098d378f-73f2-4933-979d-1564cd9c3b57)
 
