@@ -22,7 +22,7 @@
 ![image](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/e4311e28-0911-4cb5-b30c-10090cfe3da5)
 
 
-<li>file is written using ejs.</li>
+<li>file is written using ejs language. </li>
 ![image](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/996f5a47-1f04-4f82-9af5-7ac2027322ef)
 
 
