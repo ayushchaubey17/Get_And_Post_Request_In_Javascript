@@ -21,7 +21,11 @@
 
 
 <li>file is written using ejs language. </li>
-![e7](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/1040bc6f-c57b-4353-be68-5e917b508e1d)
+
+
+![e7](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/3fb9bc90-b72f-45b0-a33c-1283f6b130ac)
+
+
 
 ![e8](https://github.com/ayushchaubey17/Get_And_Post_Request_In_Javascript/assets/123767430/098d378f-73f2-4933-979d-1564cd9c3b57)
 
